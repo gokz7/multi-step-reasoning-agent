@@ -1,0 +1,5 @@
+google-genai>=2.0.0        # Gemini (default provider)
+python-dotenv>=1.0.0       # reads the .env file
+# Optional - only if you switch LLM_PROVIDER:
+# openai>=3.0.0
+# anthropic>=2.0.0
